@@ -1,6 +1,6 @@
 <h1 align="center">🛸 42 Header</h1>
 
-This plugin is a fork of the @diogo-ss 42header plugin for 42lyon
+This plugin is a fork of the [diogo-ss](https://github.com/Diogo-ss/42-header.nvim) 42header plugin for 42lyon
 
 ## ✨ Features
 
