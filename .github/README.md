@@ -20,7 +20,7 @@ This plugin is a fork of the [diogo-ss](https://github.com/Diogo-ss/42-header.nv
 
 ```lua
 use {
-  "Diogo-ss/42-header.nvim",
+  "kporceil/42lyon-header.nvim",
   cmd = { "Stdheader" },
   config = function()
     require "42header"setup {
@@ -41,7 +41,7 @@ use {
 
 ```lua
 {
-  "Diogo-ss/42-header.nvim",
+  "kporceil/42lyon-header.nvim",
   cmd = { "Stdheader" },
   keys = { "<F1>" },
   opts = {
