@@ -101,3 +101,8 @@ vim.g.mail = "your@mail.com"
 ```
 
 > **_NOTE:_** The order of priority: `global variables` > `git config (if support enabled)` > `user config`.
+
+
+## Acknowledgments
+
+Thank to [diogo-ss](https://github.com/Diogo-ss/42-header.nvim)
