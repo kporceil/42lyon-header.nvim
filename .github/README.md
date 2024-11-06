@@ -1,6 +1,6 @@
 <h1 align="center">🛸 42 Header</h1>
 
-This plugin is whole re-write of [42header](https://github.com/42Paris/42header) in Lua.
+This plugin is a fork of the @diogo-ss 42header plugin for 42lyon
 
 ## ✨ Features
 
