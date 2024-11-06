@@ -1,6 +1,6 @@
 <h1 align="center">🛸 42 Header</h1>
 
-This plugin is whole re-write of [42header](https://github.com/42Paris/42header) in Lua.
+This plugin is a fork of the [diogo-ss](https://github.com/Diogo-ss/42-header.nvim) 42header plugin for 42lyon
 
 ## ✨ Features
 
@@ -101,3 +101,8 @@ vim.g.mail = "your@mail.com"
 ```
 
 > **_NOTE:_** The order of priority: `global variables` > `git config (if support enabled)` > `user config`.
+
+
+## Acknowledgments
+
+Thank to [diogo-ss](https://github.com/Diogo-ss/42-header.nvim)
