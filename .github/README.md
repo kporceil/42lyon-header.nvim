@@ -11,7 +11,7 @@ This plugin is a fork of the [diogo-ss](https://github.com/Diogo-ss/42-header.nv
 
 ## 🚀 Showcase
 
-![header](https://raw.githubusercontent.com/Natox10/42lyon-header.nvim/refs/heads/main/Screenshot.png)
+![header](https://raw.githubusercontent.com/kporceil/42lyon-header.nvim/refs/heads/pictures/Screenshot.png)
 
 ## 🎈 Setup
 
