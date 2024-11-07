@@ -11,7 +11,7 @@ This plugin is a fork of the [diogo-ss](https://github.com/Diogo-ss/42-header.nv
 
 ## 🚀 Showcase
 
-![header](https://raw.githubusercontent.com/Diogo-ss/42-header.nvim/7528c7ff25c51bf32301dfc1ece995128d2ae7d5/.github/header_img.png)
+![header](https://raw.githubusercontent.com/Natox10/42lyon-header.nvim/refs/heads/main/Screenshot.png)
 
 ## 🎈 Setup
 
@@ -20,7 +20,7 @@ This plugin is a fork of the [diogo-ss](https://github.com/Diogo-ss/42-header.nv
 
 ```lua
 use {
-  "Diogo-ss/42-header.nvim",
+  "kporceil/42lyon-header.nvim",
   cmd = { "Stdheader" },
   config = function()
     require "42header"setup {
@@ -41,7 +41,7 @@ use {
 
 ```lua
 {
-  "Diogo-ss/42-header.nvim",
+  "kporceil/42lyon-header.nvim",
   cmd = { "Stdheader" },
   keys = { "<F1>" },
   opts = {
